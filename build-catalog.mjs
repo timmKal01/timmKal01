@@ -12,7 +12,7 @@ const readme = new URL('./README.md', import.meta.url);
 
 // Section order and membership. A public actor missing from here still gets listed, under "More".
 const SECTIONS = [
-    ['Leads and websites', ['website-gap-finder', 'tech-stack-lead-finder', 'website-tech-stack-detector', 'website-lead-extractor']],
+    ['Leads and websites', ['local-business-leads', 'website-gap-finder', 'tech-stack-lead-finder', 'website-tech-stack-detector', 'website-lead-extractor']],
     ['Jobs and hiring', ['ats-jobs-aggregator', 'remoteok-job-scraper', 'hn-whos-hiring-parser', 'bls-occupation-wage-lookup']],
     ['SEC filings and funding', ['form-d-fundraising-tracker', 'sec-8k-material-event-tracker', 'sec-filing-full-text-search', 'sec-reg-a-offering-tracker']],
     ['US government data', ['federal-contract-award-tracker', 'nonprofit-990-tracker', 'npi-registry-lookup', 'gsa-per-diem-rate-lookup', 'us-economic-calendar']],
@@ -32,7 +32,8 @@ for (const a of list) {
 
 const line = (name) => `- [${pub[name]}](https://apify.com/m_ctim/${name}) · [code](https://github.com/timmKal01/${name})`;
 const placed = new Set();
-const parts = [`**${Object.keys(pub).length} actors** live on the Apify Store. Each link opens its Store page, where you can run it.`];
+// No count here: the user changed it to "Multiple actors" on GitHub (2026-10-28).
+const parts = ['**Multiple actors** live on the Apify Store. Each link opens its Store page, where you can run it.'];
 for (const [title, names] of SECTIONS) {
     const live = names.filter((n) => pub[n]);
     live.forEach((n) => placed.add(n));
