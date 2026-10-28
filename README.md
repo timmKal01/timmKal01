@@ -15,7 +15,7 @@ I build small, pay-per-use [Apify](https://apify.com/m_ctim) actors that turn pu
 
 <!-- CATALOG:START -->
 
-**31 actors** live on the Apify Store. Each link opens its Store page, where you can run it.
+**Multiple actors** live on the Apify Store. Each link opens its Store page, where you can run it.
 
 ### Leads and websites
 
