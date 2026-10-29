@@ -1,4 +1,4 @@
-# Hi, I'm Timothy Kelvin
+# Hi,
 
 I build small, pay-per-use [Apify](https://apify.com/m_ctim) actors that turn public data into something you can use: local business leads with website audits, jobs from company career boards, website tech stacks, SEC filings and official US government data. You run one, you pay per result, no subscription.
 
