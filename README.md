@@ -6,8 +6,9 @@ I build small, pay-per-use [Apify](https://apify.com/m_ctim) actors that turn pu
 
 ## How I build them
 
-- Official APIs and public data first. No logins, no proxies, and no getting around bot protection.
-- API requests say which tool sent them, instead of pretending to be a browser.
+- Official APIs and public data first. Google Maps is the exception: it turns away cloud servers, so Google Maps Leads and Website Gap Finder read it through Apify's residential proxies, and that cost is in the price.
+- No account logins or session cookies. The X actor runs on the official X API with your own key.
+- Requests to official APIs say which tool sent them.
 - Rows carry a `rowType`, so a script or an AI agent can tell data from notes and errors.
 - An empty input runs a working example instead of failing.
 
