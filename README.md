@@ -26,6 +26,10 @@ I build small, pay-per-use [Apify](https://apify.com/m_ctim) actors that turn pu
 - [Website Tech Stack Detector: Wappalyzer Alternative](https://apify.com/m_ctim/website-tech-stack-detector) · [code](https://github.com/timmKal01/website-tech-stack-detector)
 - [Website Email & Phone Extractor for Lead Gen](https://apify.com/m_ctim/website-lead-extractor) · [code](https://github.com/timmKal01/website-lead-extractor)
 
+### Events
+
+- [Events Scraper: Eventbrite, Meetup & Luma by City](https://apify.com/m_ctim/events-scraper) · [code](https://github.com/timmKal01/events-scraper)
+
 ### Social media and trends
 
 - [Viral Tweets Tracker: X (Twitter) Posts, Videos & Articles](https://apify.com/m_ctim/viral-tweets-tracker) · [code](https://github.com/timmKal01/viral-tweets-tracker)
