@@ -28,7 +28,7 @@ I build small, pay-per-use [Apify](https://apify.com/m_ctim) actors that turn pu
 
 ### Events
 
-- [Events Scraper: Eventbrite, Meetup & Luma by City](https://apify.com/m_ctim/events-scraper) · [code](https://github.com/timmKal01/events-scraper)
+- [Eventbrite, Meetup & Luma Events Scraper by City](https://apify.com/m_ctim/events-scraper) · [code](https://github.com/timmKal01/events-scraper)
 
 ### Social media and trends
 
