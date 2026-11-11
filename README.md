@@ -60,7 +60,6 @@ I build small, pay-per-use [Apify](https://apify.com/m_ctim) actors that turn pu
 
 - [Hacker News Mention Tracker by Keyword](https://apify.com/m_ctim/hacker-news-keyword-tracker) · [code](https://github.com/timmKal01/hacker-news-keyword-tracker)
 - [Blog & RSS Feed Monitor: New Post Alerts](https://apify.com/m_ctim/rss-feed-tracker) · [code](https://github.com/timmKal01/rss-feed-tracker)
-- [App Store Review Tracker: New Ratings & Reviews](https://apify.com/m_ctim/app-store-review-tracker) · [code](https://github.com/timmKal01/app-store-review-tracker)
 - [SSL Certificate Monitor: New Certs & Subdomains](https://apify.com/m_ctim/certificate-transparency-monitor) · [code](https://github.com/timmKal01/certificate-transparency-monitor)
 
 ### Developer and research data
@@ -80,6 +79,5 @@ I build small, pay-per-use [Apify](https://apify.com/m_ctim) actors that turn pu
 ### Sports
 
 - [Sports Betting Odds: Pinnacle & Bovada + Arbitrage](https://apify.com/m_ctim/sports-odds-comparison) · [code](https://github.com/timmKal01/sports-odds-comparison)
-- [Live Football Scores: Bundesliga, Champions League & More](https://apify.com/m_ctim/live-football-scores) · [code](https://github.com/timmKal01/live-football-scores)
 
 <!-- CATALOG:END -->
