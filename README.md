@@ -33,8 +33,7 @@ I build small, pay-per-use [Apify](https://apify.com/m_ctim) actors that turn pu
 
 ### Jobs and hiring
 
-- [ATS Jobs Scraper: Workday, Greenhouse, Lever, Ashby](https://apify.com/m_ctim/ats-jobs-aggregator) · [code](https://github.com/timmKal01/ats-jobs-aggregator)
-- [Remote Jobs Scraper: Remote OK + Jobicy](https://apify.com/m_ctim/remoteok-job-scraper) · [code](https://github.com/timmKal01/remoteok-job-scraper)
+- [ATS & Remote Jobs Scraper: Workday, Greenhouse, Lever, Ashby](https://apify.com/m_ctim/ats-jobs-aggregator) · [code](https://github.com/timmKal01/ats-jobs-aggregator)
 - [HN Who's Hiring Scraper: Hacker News Jobs Parsed](https://apify.com/m_ctim/hn-whos-hiring-parser) · [code](https://github.com/timmKal01/hn-whos-hiring-parser)
 - [Salary Data by Occupation: BLS Wages by State](https://apify.com/m_ctim/bls-occupation-wage-lookup) · [code](https://github.com/timmKal01/bls-occupation-wage-lookup)
 
