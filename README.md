@@ -21,8 +21,7 @@ I build small, pay-per-use [Apify](https://apify.com/m_ctim) actors that turn pu
 ### Leads and websites
 
 - [Website Gap Finder: Businesses Without Websites + Audit](https://apify.com/m_ctim/website-gap-finder) · [code](https://github.com/timmKal01/website-gap-finder)
-- [Tech Stack Lead Finder: Shopify, Klaviyo & 120+ Technologies](https://apify.com/m_ctim/tech-stack-lead-finder) · [code](https://github.com/timmKal01/tech-stack-lead-finder)
-- [Website Tech Stack Detector: Wappalyzer Alternative](https://apify.com/m_ctim/website-tech-stack-detector) · [code](https://github.com/timmKal01/website-tech-stack-detector)
+- [Tech Stack Detector & Lead Finder: Wappalyzer Alternative](https://apify.com/m_ctim/tech-stack-lead-finder) · [code](https://github.com/timmKal01/tech-stack-lead-finder)
 
 ### Events
 
