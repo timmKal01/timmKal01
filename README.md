@@ -40,7 +40,7 @@ I build small, pay-per-use [Apify](https://apify.com/m_ctim) actors that turn pu
 
 ### SEC filings and funding
 
-- [Startup Funding Tracker: New SEC Form D Filings](https://apify.com/m_ctim/form-d-fundraising-tracker) · [code](https://github.com/timmKal01/form-d-fundraising-tracker)
+- [Startup Funding Tracker: Recently Funded Companies (Form D)](https://apify.com/m_ctim/form-d-fundraising-tracker) · [code](https://github.com/timmKal01/form-d-fundraising-tracker)
 - [SEC 8-K Tracker: M&A, Bankruptcy & Exec Changes](https://apify.com/m_ctim/sec-8k-material-event-tracker) · [code](https://github.com/timmKal01/sec-8k-material-event-tracker)
 - [SEC Full-Text Search: Any Filing, Any Keyword](https://apify.com/m_ctim/sec-filing-full-text-search) · [code](https://github.com/timmKal01/sec-filing-full-text-search)
 - [Reg A+ Offering Tracker: New SEC 1-A Filings](https://apify.com/m_ctim/sec-reg-a-offering-tracker) · [code](https://github.com/timmKal01/sec-reg-a-offering-tracker)
