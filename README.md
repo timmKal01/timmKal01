@@ -46,7 +46,7 @@ I build small, pay-per-use [Apify](https://apify.com/m_ctim) actors that turn pu
 
 ### US government data
 
-- [Federal Contract Awards: GovCon Leads & Intel](https://apify.com/m_ctim/federal-contract-award-tracker) · [code](https://github.com/timmKal01/federal-contract-award-tracker)
+- [SAM.gov Open Bids & Federal Contract Awards: GovCon Leads](https://apify.com/m_ctim/federal-contract-award-tracker) · [code](https://github.com/timmKal01/federal-contract-award-tracker)
 - [Nonprofit 990 Lookup: Revenue & Expenses by EIN](https://apify.com/m_ctim/nonprofit-990-tracker) · [code](https://github.com/timmKal01/nonprofit-990-tracker)
 - [NPI Lookup: Verify Healthcare Providers](https://apify.com/m_ctim/npi-registry-lookup) · [code](https://github.com/timmKal01/npi-registry-lookup)
 - [GSA Per Diem Rates: Lodging & Meals by City](https://apify.com/m_ctim/gsa-per-diem-rate-lookup) · [code](https://github.com/timmKal01/gsa-per-diem-rate-lookup)
@@ -74,5 +74,9 @@ I build small, pay-per-use [Apify](https://apify.com/m_ctim) actors that turn pu
 ### Sports
 
 - [Sports Betting Odds: Pinnacle & Bovada + Arbitrage](https://apify.com/m_ctim/sports-odds-comparison) · [code](https://github.com/timmKal01/sports-odds-comparison)
+
+### More
+
+- [Company Buying Signals: Hiring, Tech & Contacts](https://apify.com/m_ctim/company-buying-signal-report) · [code](https://github.com/timmKal01/company-buying-signal-report)
 
 <!-- CATALOG:END -->
