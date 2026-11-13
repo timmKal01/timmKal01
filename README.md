@@ -68,7 +68,6 @@ I build small, pay-per-use [Apify](https://apify.com/m_ctim) actors that turn pu
 ### Weather and hazards
 
 - [US Weather Forecast & Alerts API (NWS)](https://apify.com/m_ctim/us-weather-tracker) · [code](https://github.com/timmKal01/us-weather-tracker)
-- [Field Ops Risk Briefing: Weather & GPS Conditions](https://apify.com/m_ctim/field-operations-risk-briefing) · [code](https://github.com/timmKal01/field-operations-risk-briefing)
 - [Space Weather Alerts: Aurora & Radio Blackout](https://apify.com/m_ctim/space-weather-alert) · [code](https://github.com/timmKal01/space-weather-alert)
 - [Tsunami Warning Tracker: Active NOAA Alerts](https://apify.com/m_ctim/noaa-tsunami-warning-tracker) · [code](https://github.com/timmKal01/noaa-tsunami-warning-tracker)
 
