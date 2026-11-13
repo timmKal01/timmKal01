@@ -12,7 +12,7 @@ const readme = new URL('./README.md', import.meta.url);
 
 // Section order and membership. A public actor missing from here still gets listed, under "More".
 const SECTIONS = [
-    ['Leads and websites', ['local-business-leads', 'website-gap-finder', 'tech-stack-lead-finder', 'website-tech-stack-detector', 'website-lead-extractor']],
+    ['Leads and websites', ['local-business-leads', 'website-gap-finder', 'tech-stack-lead-finder', 'company-buying-signal-report', 'website-tech-stack-detector', 'website-lead-extractor']],
     ['Events', ['events-scraper']],
     ['Social media and trends', ['viral-tweets-tracker']],
     ['Jobs and hiring', ['ats-jobs-aggregator', 'remoteok-job-scraper', 'hn-whos-hiring-parser', 'bls-occupation-wage-lookup']],

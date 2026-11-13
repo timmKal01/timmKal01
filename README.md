@@ -22,6 +22,7 @@ I build small, pay-per-use [Apify](https://apify.com/m_ctim) actors that turn pu
 
 - [Website Gap Finder: Businesses Without Websites + Audit](https://apify.com/m_ctim/website-gap-finder) · [code](https://github.com/timmKal01/website-gap-finder)
 - [Tech Stack Detector & Lead Finder: Wappalyzer Alternative](https://apify.com/m_ctim/tech-stack-lead-finder) · [code](https://github.com/timmKal01/tech-stack-lead-finder)
+- [Company Buying Signals: Hiring, Tech & Contacts](https://apify.com/m_ctim/company-buying-signal-report) · [code](https://github.com/timmKal01/company-buying-signal-report)
 
 ### Events
 
@@ -74,9 +75,5 @@ I build small, pay-per-use [Apify](https://apify.com/m_ctim) actors that turn pu
 ### Sports
 
 - [Sports Betting Odds: Pinnacle & Bovada + Arbitrage](https://apify.com/m_ctim/sports-odds-comparison) · [code](https://github.com/timmKal01/sports-odds-comparison)
-
-### More
-
-- [Company Buying Signals: Hiring, Tech & Contacts](https://apify.com/m_ctim/company-buying-signal-report) · [code](https://github.com/timmKal01/company-buying-signal-report)
 
 <!-- CATALOG:END -->
